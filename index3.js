@@ -1,0 +1,1 @@
+console.log("I am practicing GitHub and learning how to use it effectively.");  
